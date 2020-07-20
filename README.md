@@ -1,1 +1,1 @@
-# rnn_reuters_news
+# RNN Reuters News
